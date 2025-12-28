@@ -1,8 +1,3 @@
-# Welcome to your Lovable project
-
-## Project info
-
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
 # Content Companion
 
@@ -88,12 +83,3 @@ Contributions are welcome! A few suggestions:
 - Open an issue first if you plan large changes.
 - Keep PRs focused and include a short description of the change and why.
 - Add or update tests when adding new behavior.
-
-## License
-
-This project does not include a LICENSE file by default. Add an open source license (MIT, Apache-2.0, etc.) if you plan to share the project publicly.
-
-## Contact / links
-
-- Project: Content Companion
-- Repo: add your GitHub repo URL here
